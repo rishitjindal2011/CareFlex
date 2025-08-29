@@ -340,7 +340,7 @@ export default function SettingsScreen() {
 
 const styles = StyleSheet.create({
             }
-  container: {
+   ontainer: {
     flex: 1 ,
     backgroundColor: '#F9FAFB',
     paddingTop: 50,
